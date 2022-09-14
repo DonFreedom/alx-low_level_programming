@@ -1,1 +1,1 @@
-This is one Readme for the C functions and nested loops
+This is my first readme file for functions and nested loops
