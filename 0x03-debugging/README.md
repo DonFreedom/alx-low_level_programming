@@ -1,9 +1,8 @@
-debugging files for donfreedom
+Debuggging task for Donfreedom
+1- The file that tests for a positive or negative function
 
-0- This main file is a test for a postitive_or_negative() function similar to the one you worked with in an earlier C project.
+2- The part of the code that is causing the outputto go into an infinity loop
 
-1- The part of the code that is causing the output to go into an infinite loop.
+3- This program prints the largest of three integers
 
-2- This program prints the largest of three integers.
-
-3- This program converts a date to the day of year and determines how many days are left in the year, taking leap year into consideration.
+4- This program converts a date to the day of the year and determines how many daysbare left in the year, taking leap into consideration
